@@ -289,9 +289,9 @@ body {
         right: 0;
     }
 
-    /* .container.sign-in .col.sign-up {
+    .container.sign-in .col.sign-up {
         transform: translateY(100%);
-    } */
+    } 
 
     .container.sign-in .col.sign-in,
     .container.sign-up .col.sign-up {
@@ -345,19 +345,19 @@ body {
 }
     .logo-left {
         position: absolute;
-        top: 20px; /* Adjust top position as needed */
-        left: 20px; /* Adjust left position as needed */
+        top: 20px; 
+        left: 20px; 
     }
     
     .logo-right {
         position: absolute;
-        top: 20px; /* Adjust top position as needed */
-        right: 20px; /* Adjust right position as needed */
+        top: 20px; 
+        right: 20px; 
     }
     
     .logo-left img,
     .logo-right img {
         width: 150px;
-        /* Add any additional styling, such as height, padding, or borders, as needed */
+
     }
     
